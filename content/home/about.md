@@ -12,4 +12,5 @@ design:
     gradient_start: "#960000"
     gradient_end: "#ffffff"
     text_color_light: false
+    image: screen-shot-2022-11-05-at-1.22.44-am.png
 ---
