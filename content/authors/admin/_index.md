@@ -2,12 +2,12 @@
 title: Abdullah Alali
 role: PhD candidate
 avatar_filename: screen-shot-2022-11-05-at-1.22.44-am.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep learning in geophysical
+  - Full-wavefrom inversion
+  - 4D (time-lapse)
+  - Seismic imaging and velocity analysis
 social:
   - icon: envelope
     icon_pack: fas
