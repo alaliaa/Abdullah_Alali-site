@@ -8,9 +8,10 @@ active: true
 author: admin
 design:
   background:
-    color: "#0e0d0d"
-    gradient_start: "#960000"
+    color: "#ffffff"
+    gradient_start: "#ffffff"
     gradient_end: "#ffffff"
     text_color_light: false
     image: ""
+    image_darken: 1
 ---
