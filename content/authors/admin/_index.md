@@ -26,15 +26,18 @@ organizations:
     url: https://www.kaust.edu.sa/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "PhD in Earth Science and Engineering "
+      institution: King Abdullah University of Science and Technology (KAUST), Thuwal,
+        Saudi Arabia
+      year: ""
+    - course: "M.S in Earth Science and Engineering "
+      institution: King Abdullah University of Science and Technology (KAUST), Thuwal,
+        Saudi Arabia
+      year: 1988
+    - course: BSc in Geophysics
+      institution: King Fahd University of Petroleum and Minerals (KFUPM), Dhahran,
+        Saudi Arabia
+      year: 2016
 superuser: true
 last_name: Bighetti
 highlight_name: true
