@@ -13,6 +13,6 @@ design:
     gradient_end: "#ffffff"
     text_color_light: false
     image: ""
-    image_darken: 0.5
+    image_darken: 1
   columns: "1"
 ---
