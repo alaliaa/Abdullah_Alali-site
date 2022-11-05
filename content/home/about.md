@@ -1,11 +1,11 @@
 ---
 widget: about
-widget_id: Biography
 headless: true
 weight: 20
 title: Biography
-active: true
 author: admin
+widget_id: Biography
+active: true
 design:
   background:
     color: rgba(255, 255, 255, 0)
@@ -16,3 +16,5 @@ design:
     image_darken: 1
   columns: "1"
 ---
+
+The subheadings, such as Interests and Education, will automatically translate depending on the language chosen in `config.yaml`. To customize the subheading text, see the Language page in the docs.
