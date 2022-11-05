@@ -26,11 +26,11 @@ organizations:
     url: https://www.kaust.edu.sa/
 education:
   courses:
-    - course: "PhD in Earth Science and Engineering "
+    - course: PhD in Earth Science and Engineering
       institution: King Abdullah University of Science and Technology (KAUST), Thuwal,
         Saudi Arabia
       year: 2023
-    - course: "M.S in Earth Science and Engineering "
+    - course: M.S in Earth Science and Engineering
       institution: King Abdullah University of Science and Technology (KAUST), Thuwal,
         Saudi Arabia
       year: 2018
