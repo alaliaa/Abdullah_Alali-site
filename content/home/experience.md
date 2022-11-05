@@ -25,7 +25,7 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
 widget_id: Experience
 headless: true
-weight: 0
+weight: 60
 title: Experience
 subtitle: null
 design:
