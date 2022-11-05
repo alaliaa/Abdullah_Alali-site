@@ -29,7 +29,7 @@ education:
     - course: "PhD in Earth Science and Engineering "
       institution: King Abdullah University of Science and Technology (KAUST), Thuwal,
         Saudi Arabia
-      year: ""
+      year: 1995
     - course: "M.S in Earth Science and Engineering "
       institution: King Abdullah University of Science and Technology (KAUST), Thuwal,
         Saudi Arabia
