@@ -4,6 +4,7 @@ widget_id: Projects
 headless: true
 weight: 50
 title: Projects
+active: false
 subtitle: ""
 content:
   page_type: project
