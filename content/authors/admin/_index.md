@@ -1,7 +1,7 @@
 ---
 title: Abdullah Alali
 role: PhD candidate
-avatar_filename: screen-shot-2022-11-05-at-1.22.44-am.png
+avatar_filename: ""
 bio: ""
 interests:
   - Deep learning in geophysical
