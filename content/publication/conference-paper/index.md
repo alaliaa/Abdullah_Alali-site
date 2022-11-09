@@ -43,7 +43,7 @@ url_project: ""
 url_source: https://library.seg.org/doi/pdf/10.1190/image2022-3751821.1
 url_video: ""
 publication: In *Second International Meeting for Applied Geoscience & Energy*
-featured: false
+featured: true
 date: 2022-09-01T00:00:00Z
 url_slides: ""
 publishDate: 2022-09-01T00:00:00Z
