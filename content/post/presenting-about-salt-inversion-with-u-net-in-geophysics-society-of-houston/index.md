@@ -8,4 +8,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Present the work in integrating U-net into salt inversion on 13-Sep-2022
