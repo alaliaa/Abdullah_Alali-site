@@ -21,6 +21,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/abdullah-alali-a52588b8/
+  - icon: 
 organizations:
   - name: King Abdullah University of Science and Technology (KAUST)
     url: https://www.kaust.edu.sa/
