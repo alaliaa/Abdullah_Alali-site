@@ -40,16 +40,15 @@ image:
 summary: ""
 url_dataset: ""
 url_project: ""
-url_source: https://onepetro.org/SEGAM/proceedings/IMAGE22/1-IMAGE22/D011S048R004/512508
+url_source: https://library.seg.org/doi/pdf/10.1190/image2022-3751821.1
 url_video: ""
 publication: In *Second International Meeting for Applied Geoscience & Energy*
 featured: false
-date: 2013-07-01T00:00:00Z
+date: 2022
 url_slides: ""
 publishDate: 2022
 url_poster: ""
 url_code: https://github.com/alaliaa/Integrating-Unet-with-FWI-for-salt
-test: https://github.com/alaliaa/Integrating-Unet-with-FWI-for-salt 
 doi: ""
 ---
 
