@@ -38,17 +38,18 @@ image:
   focal_point: ""
   preview_only: false
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: ""
 url_project: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_source: https://onepetro.org/SEGAM/proceedings/IMAGE22/1-IMAGE22/D011S048R004/512508
+url_video: ""
 publication: In *Second International Meeting for Applied Geoscience & Energy*
 featured: false
 date: 2013-07-01T00:00:00Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2022
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: https://github.com/alaliaa/Integrating-Unet-with-FWI-for-salt
+test: https://github.com/alaliaa/Integrating-Unet-with-FWI-for-salt 
 doi: ""
 ---
 
