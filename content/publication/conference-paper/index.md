@@ -30,7 +30,7 @@ abstract: Full waveform inversion (FWI) often faces a lot of difficulty
 tags: []
 projects: []
 slides: ""
-url_pdf: ""
+url_pdf: #Integrating_U_net_with_full_waveform_inversion_for_an_efficient_salt_body_building.pdf
 publication_types:
   - "1"
 image:
