@@ -1,10 +1,10 @@
 ---
 widget: experience
-date_format: Jan 2006
+date_format: 2006
 widget_id: Experience
 headless: true
 weight: 50
-title: Experience
+title: Professional Experience
 subtitle: null
 design:
   columns: "2"
