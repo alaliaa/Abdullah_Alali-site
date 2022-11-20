@@ -14,7 +14,7 @@ experience:
   - title: Machine learning geophysicist 
     company: Saudi Aramco
     company_url: ""
-    company_logo: org-gc
+    company_logo: aramco
     location: Saudi Arabia
     date_start: 2021-06-20
     date_end: 2021-08-19
@@ -23,7 +23,7 @@ experience:
   - title: Teaching Assistant
     company: KAUST
     company_url: ""
-    company_logo: org-x
+    company_logo: kaust
     location: Saudi Arabia
     date_start: 2022-01-23
     date_end: 2022-05-15
@@ -32,7 +32,7 @@ experience:
   - title: Teaching Assistant
     company: KAUST
     company_url: ""
-    company_logo: org-x
+    company_logo: kaust
     location: Saudi Arabia
     date_start: 2020-08-30
     date_end: 2020-12-10
