@@ -5,7 +5,7 @@ headless: true
 weight: 80
 title: Contact
 subtitle: null
-active: True
+active: true
 content:
   # Automatically link email and phone or display as text?
   autolink: true
