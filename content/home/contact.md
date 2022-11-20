@@ -7,18 +7,18 @@ title: Contact
 subtitle: null
 active: true
 content:
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     ? id
+  #   netlify:
+  #     captcha: false
   autolink: true
   phone: +966 564859922
   appointment_url: 
-  directions: Building 1 - level 3 - Desk 3305-WS09
+  directions: 
   address:
-    street: KAUST
+    street: 4700 KAUST, Al Khawarizmi Building (Bldg 1), office \#3305-WS09
     city: Thuwal
     region: Makkah
     postcode: "23955"
@@ -31,33 +31,3 @@ coordinates:
 design:
   columns: "2"
 ---
-<!-- ---
-# An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 60
-
-title: Contact
-subtitle:
-
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-  
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-  
-design:
-  columns: '2'
---- -->
