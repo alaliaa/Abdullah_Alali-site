@@ -18,7 +18,7 @@ content:
   appointment_url: 
   directions: Building 1 - level 3 - Desk 3305-WS09
   address:
-    street: 
+    street: KAUST
     city: Thuwal
     region: Makkah
     postcode: "23955"
@@ -61,15 +61,3 @@ content:
 design:
   columns: '2'
 --- -->
-
-email: motasem.alfarra@kaust.edu.sa
-address:
-  street: KAUST
-  city: Thuwal
-  postcode: '23955'
-  country: Saudi Arabia
-  country_code: KSA
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Building 1 - level 2 - Desk 2106-WS14
