@@ -6,7 +6,6 @@ weight: 50
 title: Professional Experience
 subtitle: null
 date_format: Jan 2006
-
 experience:
   - title: Machine learning geophysicist 
     company: Saudi Aramco
@@ -17,7 +16,6 @@ experience:
     date_end: 2021-09-19
     description: Developing a machine learning models to invert rock properties, specifically acoustic impedance, Vp/Vs and density
 from field seismic data.
-
   - title: Teaching Assistant
     company: KAUST
     company_url: "https://www.kaust.edu.sa/en"
@@ -26,7 +24,6 @@ from field seismic data.
     date_start: 2020-08-30
     date_end: 2020-12-10
     description:  Assist in teaching a seismic imaging course. 
-
 design:
   columns: "2"
 ---
