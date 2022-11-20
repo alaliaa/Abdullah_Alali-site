@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: Mr Robot
+  theme_night: Mr Robot
   font: minimal
-  font_size: L
+  font_size: s
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Abdullah A Alali'
     license:
       enable: true
       allow_derivatives: false
