@@ -11,7 +11,6 @@ experience:
     date_end: ""
     description: Developing a machine learning models to invert rock properties, specifically acoustic impedance, Vp/Vs and density
 from field seismic data.
-
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
