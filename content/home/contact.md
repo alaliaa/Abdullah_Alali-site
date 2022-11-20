@@ -5,7 +5,7 @@ headless: true
 weight: 80
 title: Contact
 subtitle: null
-active: false
+active: true
 content:
   form:
     provider: netlify
