@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day:Ocean
-  theme_night:Ocean
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
-  font_size: m
+  font_size: L
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Abdullah Alali'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -57,7 +57,7 @@ locale:
   time_format: '3:04 PM'
   address_format: en-us
 
-Site features
+# Site features
 
 features:
   syntax_highlighter:
@@ -112,3 +112,18 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Hugo-acadeic/params.yaml at main · alaliaa/Hugo-acadeic
