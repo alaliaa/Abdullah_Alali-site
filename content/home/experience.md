@@ -1,6 +1,6 @@
 ---
 widget: experience
-date_format: 2006
+date_format: Jan 2006
 widget_id: Experience
 headless: true
 weight: 50
