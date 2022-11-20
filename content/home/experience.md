@@ -1,10 +1,5 @@
 ---
 widget: experience
-widget_id: Experience
-headless: true
-weight: 50
-title: Professional Experience
-subtitle: null
 date_format: Jan 2006
 experience:
   - title: Machine learning geophysicist 
@@ -24,6 +19,11 @@ from field seismic data.
     date_start: 2020-08-30
     date_end: 2020-12-10
     description:  Assist in teaching a seismic imaging course. 
+widget_id: Experience
+headless: true
+weight: 50
+title: Experience
+subtitle: null
 design:
   columns: "2"
 ---
