@@ -4,7 +4,7 @@ date_format: Jan 2006
 experience:
   - title: Machine learning geophysicist 
     company: Saudi Aramco
-    company_url: "https://www.aramco.com/"
+    company_url: ""
     company_logo: org-gc
     location: Saudi Arabia
     date_start: 2021-06-20
@@ -13,7 +13,7 @@ experience:
 from field seismic data.
   - title: Teaching Assistant
     company: KAUST
-    company_url: "https://www.kaust.edu.sa/en"
+    company_url: ""
     company_logo: org-x
     location: Saudi Arabia
     date_start: 2020-08-30
