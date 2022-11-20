@@ -57,7 +57,11 @@ locale:
   time_format: '3:04 PM'
   address_format: en-us
 
+<<<<<<< HEAD
 Site features
+=======
+# Site features
+>>>>>>> parent of ec51b99... Update default param
 
 features:
   syntax_highlighter:
