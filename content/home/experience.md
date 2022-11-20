@@ -4,7 +4,7 @@ date_format: Jan 2006
 widget_id: Experience
 headless: true
 weight: 50
-title: Professional Experience
+title: Experience
 subtitle: null
 design:
   columns: "2"
@@ -16,8 +16,8 @@ experience:
     company_url: ""
     company_logo: org-gc
     location: Saudi Arabia
-    date_start: 2022-01-23
-    date_end: 2022-05-15
+    date_start: 2021-06-20
+    date_end: 2021-08-19
     description: Developing a machine learning models to invert rock properties, specifically acoustic impedance, Vp/Vs and density from field seismic data.
 
   - title: Teaching Assistant
@@ -25,8 +25,8 @@ experience:
     company_url: ""
     company_logo: org-x
     location: Saudi Arabia
-    date_start: 2022-08-30
-    date_end: 2022-12-10
+    date_start: 2022-01-23
+    date_end: 2022-05-15
     description:  Assist in teaching the full-waveform inversion course. 
 
   - title: Teaching Assistant
