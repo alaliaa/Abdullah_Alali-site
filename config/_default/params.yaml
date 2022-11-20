@@ -102,6 +102,7 @@ features:
     api_key: ''
     zoom: 15
 
+<<<<<<< HEAD
 # Extensions
 
 extensions:
@@ -111,11 +112,62 @@ extensions:
   academicons:
     enable: true
 
+=======
+features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/<username>/<repository>'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+>>>>>>> parent of ec51b99... Update default param
 # Security
 
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 # # Site features
@@ -202,5 +254,7 @@ security:
 # icon:
 #   pack:
 #     ai: true
+=======
+>>>>>>> parent of ec51b99... Update default param
 =======
 >>>>>>> parent of ec51b99... Update default param
