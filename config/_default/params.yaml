@@ -13,26 +13,19 @@ appearance:
 
 # SEO
 
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
-
-# Contact (edit or remove options as required)
-
-email: abdullah.alali.1@kaust.edu.sa
-address:
-  street: KAUST
-  city: Thuwal
-  postcode: '23955'
-  country: Saudi Arabia
-  country_code: KSA
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Building 1 - level 3 - Desk 3305-WS09
-
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
@@ -64,7 +57,11 @@ locale:
   time_format: '3:04 PM'
   address_format: en-us
 
+<<<<<<< HEAD
 Site features
+=======
+# Site features
+>>>>>>> parent of ec51b99... Update default param
 
 features:
   syntax_highlighter:
@@ -119,6 +116,7 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+<<<<<<< HEAD
 
 # # Site features
 
@@ -204,3 +202,5 @@ security:
 # icon:
 #   pack:
 #     ai: true
+=======
+>>>>>>> parent of ec51b99... Update default param
