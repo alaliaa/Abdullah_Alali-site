@@ -1,4 +1,4 @@
-<!-- ---
+---
 widget: contact
 widget_id: Contact
 headless: true
@@ -14,36 +14,24 @@ content:
     netlify:
       captcha: false
   autolink: true
-  office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-  phone: 888 888 88 88
-  appointment_url: https://calendly.com
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  phone: +966 564859922
+  appointment_url: 
+  directions: Building 1 - level 3 - Desk 3305-WS09
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: "94305"
-    country: United States
-    country_code: US
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/Twitter
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: https://zoom.com
-  coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
-  email: test@example.org
+    street: 
+    city: Thuwal
+    region: Makkah
+    postcode: "23955"
+    country: Saudi Arabia
+    country_code: KSA
+coordinates:
+  latitude: '37.4275'
+  longitude: '-122.1697'
+  email: abdullah.alali.1@kaust.edu.sa
 design:
   columns: "2"
---- -->
 ---
+<!-- ---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
@@ -72,4 +60,16 @@ content:
   
 design:
   columns: '2'
----
+--- -->
+
+email: motasem.alfarra@kaust.edu.sa
+address:
+  street: KAUST
+  city: Thuwal
+  postcode: '23955'
+  country: Saudi Arabia
+  country_code: KSA
+coordinates:
+  latitude: '37.4275'
+  longitude: '-122.1697'
+directions: Building 1 - level 2 - Desk 2106-WS14
