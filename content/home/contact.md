@@ -16,9 +16,10 @@ content:
   autolink: true
   phone: +966 564859922
   appointment_url: 
-  directions: 
+  directions:
+  email: abdullah.alali.1@kaust.edu.sa 
   address:
-    street: 4700 KAUST, Al Khawarizmi Building (Bldg 1), office \#3305-WS09
+    street: "4700 KAUST, Al Khawarizmi Building (Bldg 1), office #3305-WS09"
     city: Thuwal
     region: Makkah
     postcode: "23955"
