@@ -1,7 +1,7 @@
 ---
 widget: collection
 widget_id: News
-headless: false
+headless: true
 weight: 30
 title: News
 subtitle: null
@@ -21,5 +21,5 @@ content:
   order: desc
 design:
   view: 1
-  columns: "2"
+  columns: "1"
 ---
