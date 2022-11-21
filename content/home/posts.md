@@ -22,6 +22,4 @@ content:
 design:
   view: 1
   columns: "2"
-icon: ballot-check
-icon_pack: fas
 ---
