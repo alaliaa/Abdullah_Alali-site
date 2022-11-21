@@ -19,7 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-summary:""
+summary: ""
 url_dataset: ""
 url_project: ""
 url_source: https://library.seg.org/doi/pdf/10.1190/image2022-3751821.1
