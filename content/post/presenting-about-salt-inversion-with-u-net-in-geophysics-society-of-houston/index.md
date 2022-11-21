@@ -6,5 +6,5 @@ featured: false
 image:
   filename: 1661965215071.jpeg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
