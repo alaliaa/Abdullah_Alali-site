@@ -33,17 +33,9 @@ url_poster: ""
 url_code: https://github.com/alaliaa/Integrating-Unet-with-FWI-for-salt
 doi: ""
 ---
-
 {{% callout note %}}
-Chech out the summary for this work in [this page](https://swag-kaust.github.io/swag-paper-template/alali-Deep-learning-unflooding-for-robust-subsalt-waveform-inversion.html)
+Check out a very nice summary for this work in [this page](https://swag-kaust.github.io/swag-paper-template/alali-Deep-learning-unflooding-for-robust-subsalt-waveform-inversion.html)
 {{% /callout %}}
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-<!-- {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}} -->
 
 
