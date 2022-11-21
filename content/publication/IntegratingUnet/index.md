@@ -9,7 +9,7 @@ author_notes:
   - Professor at KAUST
 publication_short: ""
 abstract: Full waveform inversion (FWI) often faces a lot of difficulty
-  inverting for the subsurface when starting with a poor initial model,
+  inverting for the subsurface when starting with a poor initial model,<!--more-->
   especially in complex subsurface regions, such as those containing salt
   bodies. Thus, human intervention is often needed to pick the salt boundary and
   improve the starting model for the inversion, which can be erroneous and time
