@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: "Forest"
-  theme_night: "Forest"
+  theme_day: navy
+  theme_night: navy
   font: Forest
   font_size: s
 
@@ -39,9 +39,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    background:
-      color: 'navy'
-      text_color_light: true
+
 
 # Site footer
 
