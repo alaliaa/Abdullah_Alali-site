@@ -21,5 +21,5 @@ content:
   order: desc
 design:
   view: 1
-  columns: "1"
+  columns: "2"
 ---
