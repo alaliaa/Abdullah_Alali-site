@@ -11,4 +11,3 @@ icon: ballot-check
 icon_pack: fas
 
 ---
-<i class="fa-solid fa-ballot-check"></i>
