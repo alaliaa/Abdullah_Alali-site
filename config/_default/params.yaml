@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: forest
-  theme_night: forest
-  font: forest
+  theme_day: "mr robot"
+  theme_night: "mr robot"
+  font: "mr robot"
   font_size: s
 
 # SEO
