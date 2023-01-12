@@ -14,7 +14,7 @@ subtitle: ""
 weight: 30
 
 ---
-### 2022
+<!-- ### 2022
 
 
 **[2022-06-23]** Awarded the 2022 KAUST Academic Excellence Award for my PhD studies.\
@@ -92,4 +92,4 @@ weight: 30
 </details>
 
 </details>
-
+ -->
