@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget: "custom"
-active: true
+active: false
 date: ""
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -14,7 +14,7 @@ subtitle: ""
 weight: 30
 
 ---
-<!-- ### 2022
+### 2022
 
 
 **[2022-06-23]** Awarded the 2022 KAUST Academic Excellence Award for my PhD studies.\
@@ -92,4 +92,4 @@ weight: 30
 </details>
 
 </details>
- -->
+
