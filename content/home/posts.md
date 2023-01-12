@@ -2,9 +2,10 @@
 widget: collection
 widget_id: News
 headless: true
-weight: 30
+weight: 35
 title: News
 subtitle: null
+active: false
 content:
   filters:
     folders:
