@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget: "custom"
 active: true
-date: "2018-07-27"
+date: ""
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title: "News"
