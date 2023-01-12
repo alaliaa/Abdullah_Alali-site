@@ -19,7 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-summary: We invert for salt bodies from poor inital model, limited offsets and with frequencies starting from 5 Hz. Multistage flooding and unflooding is implimented using U-net networks within the multiscale approach in the FWI. 
+summary: Inversion workflow for salt bodies from poor inital model, limited offsets and with frequencies starting from 5 Hz. Multistage flooding and unflooding is implimented using U-net networks within the multiscale approach in the FWI. 
 url_dataset: ""
 url_project: ""
 url_source: https://library.seg.org/doi/pdf/10.1190/image2022-3751821.1
@@ -27,9 +27,9 @@ url_video: ""
 publication: In *Second International Meeting for Applied Geoscience & Energy*
 featured: true
 date: "2022-08-15T00:00:00Z"
-url_slides: ""
+url_slides: "https://docs.google.com/presentation/d/1q50Ku1UXLmKZqgRo1QjkkWC0JQOUQRHC/edit?usp=sharing&ouid=115783403967921953165&rtpof=true&sd=true"
 publishDate: "2022-08-15T00:00:00Z"
-url_poster: ""
+url_poster: "https://drive.google.com/file/d/1NmKiyycONeh3ijg9PEcLc3ag70vIdJ4l/view?usp=sharing"
 url_code: https://github.com/alaliaa/Integrating-Unet-with-FWI-for-salt
 doi: "https://doi.org/10.1190/image2022-3751821.1"
 ---
