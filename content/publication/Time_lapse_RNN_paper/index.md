@@ -11,7 +11,7 @@ author_notes:
 - Saudi Aramco
 - KAUST
 date: "2022-07-13T00:00:00Z"
-doi: " https://doi.org/10.1111/1365-2478.13193"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
