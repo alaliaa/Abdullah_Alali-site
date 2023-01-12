@@ -1,20 +1,18 @@
 ---
-title: "Time-lapse data matching using a recurrent neural network approach"
+title: "The effectiveness of a pseudo inverse extended born operator to handle lateral heterogeneity for imaging and velocity analysis applications"
 authors:
 - admin
-- Vladimir Kazei
 - Bingbing Sun
 - Tariq Alkhalifah
 author_notes:
 - KAUST
-- Aramco Americas
-- Saudi Aramco
 - KAUST
-date: "2022-07-13T00:00:00Z"
+- KAUST
+date: "2020-06-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-01-01T00:00:00Z"
+publishDate: "2020-06-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,27 +21,27 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Geophysics*"
+publication: "*Geophysical prospecting*"
 publication_short: ""
 
-abstract: Time-lapse seismic data acquisition is an essential tool to monitor changes in a reservoir due to fluid injection, such as CO2 injection. By acquiring multiple seismic surveys in the exact same location, the authors can identify the reservoir changes by analyzing the difference in the data. However, such analysis can be skewed by the near-surface seasonal velocity variations, inaccuracy, and repeatability in the acquisition parameters, and other inevitable noise. The common practice (cross equalization) to address this problem uses the part of the data in which changes are not expected to design a matching filter and then apply it to the whole data, including the reservoir area. Like cross equalization, the authors train a recurrent neural network (RNN) on parts of the data excluding the reservoir area and then infer the reservoir-related data. The RNN can learn the time dependency of the data, unlike the matching filter that processes the data based on the local information obtained in the filter window. The authors determine the method of matching the data in various examples and compare it with the conventional matching filter. Specifically, we start by demonstrating the ability of the approach in matching two traces and then test the method on a prestack 2D synthetic data. Then, the authors verify the enhancements of the 4D signal by providing reverse time migration images. The authors measure the repeatability using normalized root-mean-square and predictability metrics and find that, in some cases, our proposed method performed better than the matching filter approach.
+abstract: Wave equation–based migration velocity analysis techniques aim to construct a kinematically accurate velocity model for imaging or as an initial model for full waveform inversion applications. The most popular wave equation–based migration velocity analysis method is differential semblance optimization, where the velocity model is iteratively updated by minimizing the unfocused energy in an extended image volume. However, differential semblance optimization suffers from artefacts, courtesy of the adjoint operator used in imaging, leading to poor convergence. Recent findings show that true amplitude imaging plays a significant role in enhancing the differential semblance optimization's gradient and reducing the artefacts. Here, we focus on a pseudo‐inverse operator to the horizontally extended Born as a true amplitude imaging operator. For laterally inhomogeneous models, the operator required a derivative with respect to a vertical shift. Extending the image vertically to evaluate such a derivative is costly and impractical. The inverse operator can be simplified in laterally homogeneous models. We derive an extension of the approach to apply the full inverse formula and evaluate the derivative efficiently. We simplified the implementation by applying the derivative to the imaging condition and utilize the relationship between the source and receiver wavefields and the vertical shift. Specifically, we verify the effectiveness of the approach using the Marmousi model and show that the term required for the lateral inhomogeneity treatment has a relatively small impact on the results for many cases. We then apply the operator in differential semblance optimization and invert for an accurate macro‐velocity model, which can serve as an initial velocity model for full waveform inversion.
 
 # Summary. An optional shortened abstract.
-summary: Conventionally time-lapse surveys have discripency in the signal due to the overburden changes. A data matching between different surveys is performed using recurrent neural network. 
+summary: Analysis of the application of a pseudo inverse extended Born operator in a complex hetrogenious models. The operator is also tested in a DSO optimization to obtained a smooth velocity model for imaging and full-waveform inversion. 
 
 tags: []
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2204.00941.pdf'
-url_code: 'https://github.com/alaliaa/4Dseimsic-Xeq-RNN'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/1g6hIEABd8TclHFmOaFQDYSwzN8gtAfeU/edit?usp=sharing&ouid=115783403967921953165&rtpof=true&sd=true'
-url_source: 'https://library.seg.org/doi/full/10.1190/geo2021-0487.1'
+url_slides: ''
+url_source: 'https://www.earthdoc.org/content/journals/10.1111/1365-2478.12916'
 url_video: ''
 
 # Featured image
