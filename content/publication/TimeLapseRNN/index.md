@@ -37,7 +37,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2204.00941.pdf
+url_pdf: 'https://arxiv.org/pdf/2204.00941.pdf'
 url_code: 'https://github.com/alaliaa/4Dseimsic-Xeq-RNN'
 url_dataset: ''
 url_poster: ''
@@ -68,3 +68,6 @@ projects: []
 slides: ""
 ---
 
+{{% callout note %}}
+For more details please check the full paper using the links above
+{{% /callout %}}

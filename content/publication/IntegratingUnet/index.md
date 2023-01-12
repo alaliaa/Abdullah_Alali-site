@@ -33,9 +33,9 @@ url_poster: "https://drive.google.com/file/d/1NmKiyycONeh3ijg9PEcLc3ag70vIdJ4l/v
 url_code: https://github.com/alaliaa/Integrating-Unet-with-FWI-for-salt
 doi: "https://doi.org/10.1190/image2022-3751821.1"
 ---
-<!-- {{% callout note %}}
+{{% callout note %}}
 This work is still in progress
-{{% /callout %}} -->
+{{% /callout %}}
 
 
 

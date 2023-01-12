@@ -37,7 +37,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2201.02947.pdf
+url_pdf: 'https://arxiv.org/pdf/2201.02947.pdf'
 url_code: 'https://github.com/alaliaa/Unet_Salt_Unflooding'
 url_dataset: ''
 url_poster: ''
