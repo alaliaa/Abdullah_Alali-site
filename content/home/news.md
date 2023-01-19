@@ -5,13 +5,19 @@
 widget: "custom"
 active: true
 date: ""
+widget_id: Custom
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title: "News"
-subtitle: ""
+subtitle: null
 
 # Order that this section will appear in.
 weight: 30
+headless: true
+
+design:
+  columns: "2"
+
 
 ---
 <!-- ### 2022
