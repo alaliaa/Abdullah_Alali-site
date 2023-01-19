@@ -11,9 +11,18 @@ design:
 
 
 experience:
-  - title: Machine learning geophysicist 
+  - title: Researcher
+    company: Deepwave
+    company_url: https://deepwave.kaust.edu.sa/
+    company_logo: kaust
+    location: Saudi Arabia
+    date_start: 2022-12-1
+    date_end: 2023-12-30
+    description: Solving geophyisical problems using deep learning in collaporation with industry partners 
+
+- title: Machine learning geophysicist 
     company: Saudi Aramco
-    company_url: ""
+    company_url: https://www.aramco.com/
     company_logo: aramco
     location: Saudi Arabia
     date_start: 2021-06-20
@@ -22,7 +31,7 @@ experience:
 
   - title: Teaching Assistant
     company: KAUST
-    company_url: ""
+    company_url: https://www.kaust.edu.sa/en
     company_logo: kaust
     location: Saudi Arabia
     date_start: 2022-01-23
@@ -31,7 +40,7 @@ experience:
 
   - title: Teaching Assistant
     company: KAUST
-    company_url: ""
+    company_url: https://www.kaust.edu.sa/en
     company_logo: kaust
     location: Saudi Arabia
     date_start: 2020-08-30
