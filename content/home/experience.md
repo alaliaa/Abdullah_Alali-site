@@ -14,7 +14,7 @@ experience:
   - title: Researcher
     company: Deepwave
     company_url: https://deepwave.kaust.edu.sa/
-    company_logo: kaust
+    company_logo: deepwavw
     location: Saudi Arabia
     date_start: 2022-12-01
     date_end: 2023-12-30
