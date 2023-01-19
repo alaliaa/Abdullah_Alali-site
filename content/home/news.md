@@ -20,14 +20,22 @@ design:
 
 ---
 
-### 2022
+### 2023
+
+**[2023-01-20]** I will attend (MEOS-GEO](https://meos-geo.com/) 19 - 21 Feb \
+**[2023-01-20]** Created this website\
+
+<!-- <details><summary>Earlier News [_Click to expand_]</summary> -->
+
+<!-- ### 2022
+<details><summary>_Click to expand_</summary>
 
 
 **[2022-06-23]** Awarded the 2022 KAUST Academic Excellence Award for my PhD studies.\
 **[2022-05-09]** Started a Research Scientist Internship at [DeepMind](https://urldefense.com/v3/__https://deepmind.com/__;!!Nmw4Hv0!2XkNpAOZQBcLxFJTYFiRBGp2tfP5NMlKpAhbnATuBtLT_iELCyohoVACON9gKvvfPkveL2gn0vjR3wK3aTZ2mQQE7yBtfS-I8cLXgoVm$ ) in London working with [João Carreira](https://urldefense.com/v3/__https://scholar.google.com/citations?user=IUZ-7_cAAAAJ&hl=en).*5C__;JQ!!Nmw4Hv0!2XkNpAOZQBcLxFJTYFiRBGp2tfP5NMlKpAhbnATuBtLT_iELCyohoVACON9gKvvfPkveL2gn0vjR3wK3aTZ2mQQE7yBtfS-I8b2n8zei$ 
 
+</details>
 
-<details><summary>Earlier News [_Click to expand_]</summary>
 
 ### 2021
 <details><summary>_Click to expand_</summary>
@@ -97,5 +105,5 @@ design:
 
 </details>
 
-</details>
+</details> -->
 
