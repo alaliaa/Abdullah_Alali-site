@@ -1,5 +1,5 @@
 ---
-title: Cross-equalization of time-lapse seismic data using recurrent neural networks
+title: Time-lapse Cross-equalization by deep learning
 authors:
   - admin
   - Vladimir Kazei
