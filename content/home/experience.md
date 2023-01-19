@@ -18,7 +18,7 @@ experience:
     location: Saudi Arabia
     date_start: 2022-12-01
     date_end: ""
-    description: Solving geophyisical problems using deep learning in collaporation with industry partners 
+    description: Solving geophyisical problems using deep learning in collaboration with industry partners 
 
   - title: Machine learning geophysicist 
     company: Saudi Aramco
