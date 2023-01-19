@@ -20,7 +20,7 @@ experience:
     date_end: 2023-12-30
     description: Solving geophyisical problems using deep learning in collaporation with industry partners 
 
-- title: Machine learning geophysicist 
+  - title: Machine learning geophysicist 
     company: Saudi Aramco
     company_url: https://www.aramco.com/
     company_logo: aramco
