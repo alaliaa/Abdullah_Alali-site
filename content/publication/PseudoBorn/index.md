@@ -30,7 +30,7 @@ abstract: Wave equation–based migration velocity analysis techniques aim to co
 summary: Analysis of the application of a pseudo inverse extended Born operator in a complex hetrogenious models. The operator is also tested in a DSO optimization to obtained a smooth velocity model for imaging and full-waveform inversion. 
 
 tags: []
-featured: false
+featured: true
 
 # links:
 # - name: ""
