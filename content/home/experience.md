@@ -17,7 +17,7 @@ experience:
     company_logo: deepwave
     location: Saudi Arabia
     date_start: 2022-12-01
-    date_end: 2023-12-30
+    date_end: ""
     description: Solving geophyisical problems using deep learning in collaporation with industry partners 
 
   - title: Machine learning geophysicist 
