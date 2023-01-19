@@ -2,10 +2,9 @@
 # Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
-widget: "custom"
 active: true
 date: ""
-widget_id: Custom
+type: landing
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title: "News"
@@ -20,6 +19,23 @@ design:
 
 
 ---
+
+<!-- ---
+title: My page
+type: landing
+
+sections:
+  - block: markdown
+    content:
+      title: My title
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+--- -->
+
 <!-- ### 2022
 
 
