@@ -6,27 +6,25 @@ subtitle: null
 
 weight: 60
 
-content:
-    title: Accomplishments
-    subtitle: ''
-    text: ''
+subtitle: ''
+text: ''
     # Date format: https://wowchemy.com/docs/customization/#date-format
-    date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `items` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      #   Logos can be added in SVG format to your media/icons/brands folder, named accordingly to the brand (lowercase and     replacing spaces with underscores). For example, add a logo for an organization named “My Brand” as media/icons/brands/my_brand.svg. Three popular Accomplishment brands are included automatically to help you get started.
-    items:
-        - title: Neural Networks and Deep Learning
-          certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          url: ''
+date_format: Jan 2006
+    # Accomplishments.
+    #   Add/remove as many `items` blocks below as you like.
+    #   `title`, `organization`, and `date_start` are the required parameters.
+    #   Leave other parameters empty if not required.
+    #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+    #   Logos can be added in SVG format to your media/icons/brands folder, named accordingly to the brand (lowercase and     replacing spaces with underscores). For example, add a logo for an organization named “My Brand” as media/icons/brands/my_brand.svg. Three popular Accomplishment brands are included automatically to help you get started.
+items:
+    - title: Neural Networks and Deep Learning
+      certificate_url: https://www.coursera.org
+      date_end: ''
+      date_start: '2021-01-25'
+      description: ''
+      organization: Coursera
+      organization_url: https://www.coursera.org
+      url: ''
         - title: Blockchain Fundamentals
           certificate_url: https://www.edx.org
           date_end: ''
