@@ -6,9 +6,7 @@ subtitle: null
 
 weight: 60
 
-sections:
-  - block: accomplishments
-    content:
+content:
       title: Accomplishments
       subtitle: ''
       text: ''
