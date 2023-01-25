@@ -43,7 +43,7 @@ item:
     organization: KAUST
     organization_url: https://www.kaust.edu.sa
     url: ''
-  - title: Fundamentals of deep learning for multi-GPUs.
+  - title: Fundamentals of deep learning for multi-GPUs
     certificate_url: https://drive.google.com/file/d/1l-dFAewOpd-PzmCgvhKuLR9ycFZSHkUE/view?usp=sharing
     date_end: ''
     date_start: '2021-09-24'
