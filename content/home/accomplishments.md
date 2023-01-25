@@ -28,11 +28,12 @@ item:
     certificate_url: 
     date_end: ''
     date_start: '2021-01-25'
-    description: |2- Designed AI interpretable models for geoscience problems 
-                     A youtube interview about work is [here](https://www.youtube.com/watch?v=AsOCNFj60CE) 
     organization: EAGE
     organization_url: https://eage.org/
     url: ''
+    description: |2- 
+        Designed AI interpretable models for geoscience problems 
+        A youtube interview about work is [here](https://www.youtube.com/watch?v=AsOCNFj60CE) 
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
