@@ -36,13 +36,21 @@ item:
         * A youtube interview is available [here](https://www.youtube.com/watch?v=AsOCNFj60CE). 
         * The github repository containing the work: [click here](https://github.com/EAGE-Annual-Hackathon).
   - title: The dean’s award in the Earth science program at KAUST.
-    certificate_url: https://www.kaust.edu.sa
+    certificate_url: https://drive.google.com/file/d/1LnaotwVcSueBkuZIeFBuRqNGZZ0KhL_n/view?usp=sharing
     date_end: ''
     date_start: '2022-05-17'
     description: 'The dean’s award in the Earth science program at KAUST is given to the outstanding PhD candidates.'
     organization: KAUST
-    organization_url: kaust
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    organization_url: https://www.kaust.edu.sa
+    url: ''
+  - title: Fundamentals of deep learning for multi-GPUs".
+    certificate_url: https://drive.google.com/file/d/1l-dFAewOpd-PzmCgvhKuLR9ycFZSHkUE/view?usp=sharing
+    date_end: ''
+    date_start: '2021-09-24'
+    description: ''
+    organization: NVIDIA
+    organization_url: https://www.nvidia.com/en-us/
+    url: ''
 
 
 design:
