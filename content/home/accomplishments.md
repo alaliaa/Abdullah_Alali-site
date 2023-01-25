@@ -27,29 +27,23 @@ item:
   - title: The best in show award in the 83rd EAGE annual meeting explainable AI hackathon.
     certificate_url: 
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-06-06'
     organization: EAGE
     organization_url: https://eage.org/
     url: ''
     description: |2- 
-        * Designed AI interpretable models for geoscience problems 
-        * A youtube interview about work is [here](https://www.youtube.com/watch?v=AsOCNFj60CE) 
-  - certificate_url: https://www.edx.org
+        * Designed AI interpretable models for geoscience problems. 
+        * A youtube interview is available [here](https://www.youtube.com/watch?v=AsOCNFj60CE). 
+        * The github repository containing the work: [click here](https://github.com/EAGE-Annual-Hackathon).
+  - title: The dean’s award in the Earth science program at KAUST.
+    certificate_url: https://www.kaust.edu.sa
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    date_start: '2022-05-17'
+    description: 'The dean’s award in the Earth science program at KAUST is given to the outstanding PhD candidates.'
+    organization: KAUST
+    organization_url: kaust
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+
 
 design:
   columns: '2'
