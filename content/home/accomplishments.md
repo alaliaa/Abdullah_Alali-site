@@ -22,12 +22,13 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   Logos can be added in SVG format to your media/icons/brands folder, named accordingly to the brand (lowercase and replacing spaces with underscores). For example, add a logo for an organization named “My Brand” as media/icons/brands/my_brand.svg. Three popular Accomplishment brands are included automatically to help you get started.
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
     description: ''
-    organization: deepwave
+    organization: Nvidia
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
