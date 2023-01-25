@@ -24,13 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 #   Logos can be added in SVG format to your media/icons/brands folder, named accordingly to the brand (lowercase and replacing spaces with underscores). For example, add a logo for an organization named “My Brand” as media/icons/brands/my_brand.svg. Three popular Accomplishment brands are included automatically to help you get started.
 item:
-  - certificate_url: https://www.coursera.org
+  - title: The best in show award in the 83rd EAGE annual meeting explainable AI hackathon.
+    certificate_url: 
     date_end: ''
     date_start: '2021-01-25'
-    description: ''
-    organization: Nvidia
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    description: |2- Designed AI interpretable models for geoscience problems 
+                     A youtube interview about work is [here](https://www.youtube.com/watch?v=AsOCNFj60CE) 
+    organization: EAGE
+    organization_url: https://eage.org/
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
