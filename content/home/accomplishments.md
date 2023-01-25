@@ -33,6 +33,7 @@ item:
     url: ''
     description: |2- 
         Designed AI interpretable models for geoscience problems 
+        
         A youtube interview about work is [here](https://www.youtube.com/watch?v=AsOCNFj60CE) 
   - certificate_url: https://www.edx.org
     date_end: ''
