@@ -16,5 +16,5 @@ content:
     tag: ""
   order: desc
 design:
-  view: 5
+  view: 2
 ---
