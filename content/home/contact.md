@@ -30,5 +30,5 @@ coordinates:
   longitude: '-122.1697'
   email: abdullah.alali.1@kaust.edu.sa
 design:
-  columns: "1"
+  columns: "2"
 ---
