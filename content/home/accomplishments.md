@@ -40,8 +40,8 @@ item:
     date_end: ''
     date_start: '2022-05-17'
     description: 'The dean’s award in the Earth science program at KAUST is given to the outstanding PhD candidates.'
-    organization: KAUST
-    organization_url: https://www.kaust.edu.sa
+    organization: KAUST-PSE
+    organization_url: https://pse.kaust.edu.sa/
     url: ''
   - title: Fundamentals of deep learning for multi-GPUs
     certificate_url: https://drive.google.com/file/d/1l-dFAewOpd-PzmCgvhKuLR9ycFZSHkUE/view?usp=sharing
@@ -52,7 +52,7 @@ item:
     organization_url: https://www.nvidia.com/en-us/
     url: ''
   - title: KAUST GPU hackathon for accelerating scientific application
-    certificate_url: https://drive.google.com/file/d/1l-dFAewOpd-PzmCgvhKuLR9ycFZSHkUE/view?usp=sharing
+    certificate_url: 
     date_end: ''
     date_start: '2020-09-24'
     description: 'The 1st place award in KAUST GPU hackathon for accelerating scientific application'
