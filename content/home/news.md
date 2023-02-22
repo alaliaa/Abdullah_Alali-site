@@ -22,7 +22,7 @@ design:
 
 ### 2023
 
-**[2023-01-20]** I will attend [MEOS-GEO](https://meos-geo.com/) 19 - 21 Feb \
+**[2023-01-20]**Attended [MEOS-GEO](https://meos-geo.com/) 19-21 Feb \
 **[2023-01-20]** Created this website 
 
 <!-- <details><summary>Earlier News [_Click to expand_]</summary> -->
