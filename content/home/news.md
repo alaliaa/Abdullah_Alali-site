@@ -22,6 +22,7 @@ design:
 
 ### 2023
 
+**[2023-06-08]** Presenting in  [EAGE annual meeting](https://eageannual.org/)\
 **[2023-01-20]** Presented at [MEOS-GEO](https://meos-geo.com/) 19-21 Feb \
 **[2023-01-20]** Created this website 
 
