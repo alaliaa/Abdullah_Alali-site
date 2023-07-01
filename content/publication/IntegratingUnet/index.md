@@ -27,7 +27,7 @@ url_video: ""
 publication: In *Second International Meeting for Applied Geoscience & Energy*
 featured: true
 date: "2022-08-15T00:00:00Z"
-url_slides: "https://docs.google.com/presentation/d/1q50Ku1UXLmKZqgRo1QjkkWC0JQOUQRHC/edit?usp=sharing&ouid=115783403967921953165&rtpof=true&sd=true"
+url_slides: "https://docs.google.com/presentation/d/1IZgaJPKMcza4dhtfPlrtMYc7QgoaJHo1/edit?usp=sharing&ouid=115783403967921953165&rtpof=true&sd=true"
 publishDate: "2022-08-15T00:00:00Z"
 url_poster: "https://drive.google.com/file/d/1NmKiyycONeh3ijg9PEcLc3ag70vIdJ4l/view?usp=sharing"
 url_code: https://github.com/alaliaa/Integrating-Unet-with-FWI-for-salt
