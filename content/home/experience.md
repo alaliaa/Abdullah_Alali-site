@@ -11,6 +11,15 @@ design:
 
 
 experience:
+  - title: Researcher
+    company: Deepwave
+    company_url: https://deepwave.kaust.edu.sa/
+    company_logo: deepwave
+    location: Saudi Arabia
+    date_start: 2022-12-01
+    date_end: ""
+    description: Solving geophyisical problems using deep learning in collaboration with industry partners
+    
   - title: Research Scientist 
     company: Slb
     company_url: https://slb.com
@@ -19,15 +28,6 @@ experience:
     date_start: 2023-06-10
     date_end: 2023-08-11
     description: Enhancing Dielectric inversion in extreme condition.
-
-  - title: Researcher
-    company: Deepwave
-    company_url: https://deepwave.kaust.edu.sa/
-    company_logo: deepwave
-    location: Saudi Arabia
-    date_start: 2022-12-01
-    date_end: ""
-    description: Solving geophyisical problems using deep learning in collaboration with industry partners 
 
   - title: Machine learning geophysicist 
     company: Saudi Aramco
