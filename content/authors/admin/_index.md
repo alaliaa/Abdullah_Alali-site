@@ -4,7 +4,8 @@ role: PhD holder
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Deep learning in geophysics
+  - Artificial intellegence
+  - Machine learning
   - Full-wavefrom inversion
   - 4D (time-lapse) seismic
   - Seismic imaging and velocity analysis
