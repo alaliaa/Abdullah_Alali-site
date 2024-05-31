@@ -21,10 +21,10 @@ content:
   address:
     street: "Omar Ibn Abdulaziz"
     city: Dammam
-    region: Eastern region
+    region: "Eastern region"
     postcode: "31411"
-    country: Saudi Arabia
-    country_code: KSA
+    country: "Saudi Arabia"
+    country_code: "KSA"
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
