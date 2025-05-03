@@ -11,6 +11,18 @@ design:
 
 
 experience:
+  - title: Data Scientist
+    company: CNTXT
+    company_url: https://www.cntxt.com/
+    company_logo: cntxt
+    location: Saudi Arabia
+    date_start: 2023-08-01
+    date_end: ""
+    description: |-
+      * Lead the development of AI capabilities, focusing on Generative AI, for CNTXT's InSafe product
+      * Architect and implement advanced Retrieval-Augmented Generation (RAG) techniques
+      * Develop and deploy AI agents utilizing frameworks such as Langchain, Llamaindex, CrewAI, Letta, and n8n automation workflows
+    
   - title: Researcher
     company: Deepwave
     company_url: https://deepwave.kaust.edu.sa/
