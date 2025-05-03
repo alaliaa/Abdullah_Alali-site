@@ -20,12 +20,20 @@ design:
 
 ---
 
+## 2024
+
+**[2024-8-18]** Started a datascience role at [CNTXT](https://cntxt.com/).
+
+
 ### 2023
+<details><summary>_Click to expand_</summary>
 
 **[2023-11-08]** Ph.D dissertation defense.\
 **[2023-06-08]** Attending and presenting in [EAGE annual meeting](https://eageannual.org/)\
 **[2023-02-20]** Attending and presenting in [MEOS-GEO](https://meos-geo.com/)\
 **[2023-01-20]** Created this website 
+
+</details>
 
 <!-- <details><summary>Earlier News [_Click to expand_]</summary> -->
 
