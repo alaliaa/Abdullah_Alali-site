@@ -6,8 +6,9 @@ bio: ""
 interests:
   - Artificial intellegence
   - Machine learning
-  - Full-wavefrom inversion
-  - 4D (time-lapse) seismic
+  - Generative AI
+  - AI Agents 
+  - Mlops/LLMops
   - Seismic imaging and velocity analysis
 social:
   - icon: envelope
