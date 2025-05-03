@@ -21,7 +21,7 @@ content:
   address:
     street: ""
     city: Riyadh
-    region: ""
+    region: "Saudi Arabia"
     postcode: ""
     country: "Saudi Arabia"
     country_code: "KSA"
