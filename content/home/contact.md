@@ -17,18 +17,18 @@ content:
   phone: +966 564859922
   appointment_url: 
   directions:
-  email: abdullah.alali.pro@gmail.com 
+  email: a.alali.phd@gmail.com 
   address:
-    street: "Omar Ibn Abdulaziz"
-    city: Dammam
-    region: "Eastern region"
-    postcode: "31411"
+    street: ""
+    city: Riyadh
+    region: ""
+    postcode: ""
     country: "Saudi Arabia"
     country_code: "KSA"
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-  email: abdullah.alali.pro@gmail.com
+  email: a.alali.phd@gmail.com
 design:
   columns: "2"
 ---
