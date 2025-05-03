@@ -1,15 +1,16 @@
 ---
 title: Abdullah Alali
-role: PhD holder 
+role: Ph.D. Data Scientist
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Artificial intellegence
-  - Machine learning
+  - Artificial Intelligence
+  - Machine Learning
   - Generative AI
-  - AI Agents 
-  - Mlops/LLMops
-  - Seismic imaging and velocity analysis
+  - AI Agents
+  - Large Language Models (LLMs)
+  - MLOps/LLMOps
+  - Subsurface Imaging
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,26 +28,29 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Abdullah-Alali-3
 organizations:
-  - name: King Abdullah University of Science and Technology (KAUST)
-    url: https://www.kaust.edu.sa/
+  - name: CNTXT
+    url: https://www.cntxt.com/
 education:
   courses:
-    - course: PhD in Earth Science and Engineering
-      institution: King Abdullah University of Science and Technology (KAUST), Thuwal,
-        Saudi Arabia
+    - course: PhD in Earth Science and Engineering (Machine Learning Track)
+      institution: King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia
       year: 2023
     - course: M.S in Earth Science and Engineering
-      institution: King Abdullah University of Science and Technology (KAUST), Thuwal,
-        Saudi Arabia
+      institution: King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia
       year: 2018
     - course: BSc in Geophysics
-      institution: King Fahd University of Petroleum and Minerals (KFUPM), Dhahran,
-        Saudi Arabia
+      institution: King Fahd University of Petroleum and Minerals (KFUPM), Dhahran, Saudi Arabia
       year: 2016
 superuser: true
 last_name: Alali
 highlight_name: true
 first_name: Abdullah
-email: abdullah.alali.pro@gmail.com
+email: a.alali.phd@gmail.com
 ---
-I am a **Ph.D. holder** specializing in **Artificial Intelligence (AI)** within the field of **Geophysics**. I received my Ph.D. degree in 2023 in the Earth Science and Engineering at King Abdullah University of Science and Technology [(KAUST)](https://www.kaust.edu.sa/en), Saudi Arabia. I was part of the seismic wave analysis group [(SWAG)](https://swag-kaust.github.io/swag-paper-template/) supervised by [Tariq Alkhalifah](https://www.kaust.edu.sa/en/study/faculty/tariq-a-alkhalifah). I was also a member of [deepwave](https://deepwave.kaust.edu.sa/) consortium, which focuses on machine (deep) learning applications in geophysics. My Ph.D. research focuses on applying machine learning techniques in full-waveform inversion and in processing 4D seismic data. I received my M.S. degree in Earth Science and Engineering at KAUST in 2018 and my B.S. degree in Geophysics in 2016 at King Fahd University of Petroleum and Minerals [(KFUPM)](http://www.kfupm.edu.sa/Default.aspx), Saudi Arabia.
+I am a **Ph.D. Data Scientist** skilled in developing cutting-edge **machine learning models** to solve technical challenges. Currently, I work at **CNTXT** as a Data Scientist, where I lead the development of AI capabilities with a focus on **Generative AI** for the InSafe product. My responsibilities include architecting advanced **Retrieval-Augmented Generation (RAG)** systems and developing **AI agents** using frameworks such as Langchain, Llamaindex, and CrewAI.
+
+I received my Ph.D. in Earth Science and Engineering (Machine Learning Track) from King Abdullah University of Science and Technology (KAUST) in 2023, where my dissertation focused on "Advances of deep learning in geophysical challenges: 4D seismic processing and salt inversion" under the supervision of Tariq Alkhalifah. I have experience applying complex AI/ML models, including CNNs and temporal networks, to challenging data analysis problems, particularly in subsurface imaging and monitoring. 
+
+My professional experience includes roles at SLB as a Research Engineer and at Saudi Aramco as a Machine Learning Engineer, where I developed ML models for geophysical applications. I have also served as a Teaching Assistant at KAUST, enhancing student understanding of complex graduate-level geophysics concepts.
+
+I am passionate about leveraging deep learning expertise in data science, with a particular interest in Generative AI applications and AI agent development for industrial applications.
